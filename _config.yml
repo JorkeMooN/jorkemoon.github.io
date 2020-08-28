@@ -37,3 +37,5 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+copyright_time: 2020
