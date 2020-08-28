@@ -14,11 +14,14 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: JorkeMooN
+name: JorkeMooN
+description: 总要有人赢的，那为什么不是我呢
 
-github: https://github.com/showzeng/Minimalism
+twitter: https://github.com/JorkeMooN
+weibo: https://weibo.com/u/5176247948
+github: https://github.com/JorkeMooN
+email: jorkemoon@163.com
 rss: true
 
 plugins:
